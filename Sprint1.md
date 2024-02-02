@@ -14,6 +14,14 @@
 
  En  esta etapa del proyecto nos enfocamos en obtener una comprensión completa de la localización geográfica y la relevancia de los restaurantes 
 Para realizar un análisis integral de reputación a través de una detallada evaluacion de las condiciones del comercio en el mercado basándose en reseñas y clientela. Los datos ya se han pasado por los siguientes procesos: ejecución de un proceso de ETL automatizado realizado  y almacenamiento de archivos fuente en Cloud Storage, definición y en Cloud Functions
+# Nubes de palabras 
+
+![nube de palabras](https://github.com/mariebraca21/Pf.google_yelp/assets/86693811/88a50fce-e9b9-4d9a-b324-488e8fb85e39)
+
+![tabla](https://github.com/mariebraca21/Pf.google_yelp/assets/86693811/255439da-990e-442f-983f-a7d22369304a)
+ # Google Cloud
+![nube](https://github.com/mariebraca21/Pf.google_yelp/assets/86693811/f4b20820-4455-497f-915a-fec1bd93c776)
+
 
 # Objetivo General
 
