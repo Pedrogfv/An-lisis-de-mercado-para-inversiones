@@ -12,6 +12,9 @@
 
  En calidad de consultores de datos, hemos sido contratados por un conglomerado de firmas gastronómicas de los Estados Unidos para llevar a cabo un análisis integral y brindar información valiosa para la toma de decisiones estratégicas. El análisis se realiza en base a la información recopilada de la plataforma popular Google Maps. Esta información comprende las opiniones de los usuarios en negocios de diversas categorías, así como las características asociadas a los mismos. Con el fin de confeccionar un reporte con los hallazgos significativos se utilizaron diversas técnicas para el análisis de los comentarios y calificaciones de los usuarios. En este análisis se busca identificar la relación entre variables relevantes, tendencias y patrones en la industria gastronómica. 
 
+ En  esta etapa del proyecto nos enfocamos en obtener una comprensión completa de la localización geográfica y la relevancia de los restaurantes 
+Para realizar un análisis integral de reputación a través de una detallada evaluacion de las condiciones del comercio en el mercado basándose en reseñas y clientela. Los datos ya se han pasado por los siguientes procesos: ejecución de un proceso de ETL automatizado realizado  y almacenamiento de archivos fuente en Cloud Storage, definición y en Cloud Functions
+
 # Objetivo General
 
 El objetivo general del proyecto es comprender  e identificar patrones de satisfacción y detectar factores claves que influyen en la calidad y éxito de dichos negocios.
